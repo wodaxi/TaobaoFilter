@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#bfbfbf</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="font_title_color">#434546</color>
+    <color name="bg">#f0eff4</color>
+    <color name="dot_selected">#555555</color>
+    <color name="dot_unselected">#aaaaaa</color>
+    <color name="font_price">#da3f3f</color>
+    <color name="bg_line">#d8d8d8</color>
+    <color name="bg_line1">#dadada</color>
+    <color name="font_remind">#959595</color>
+    <color name="font_vertification_code">#5888d7</color>
+    <color name="font_share">#959595</color>
+    <color name="bg_commodity_state">#f6971d</color>
+    <color name="font_commodity_original_price">#c7c7c7</color>
+    <color name="font_commodity_shelves">#959595</color>
+    <color name="bg_join_shopcart">#e88524</color>
+    <color name="bg_bottom_layout">#100802</color>
+    <color name="tab_font_color">#cd3c3b</color>
+    <color name="bg_notification_message">#518ecb</color>
+    <color name="bg_chat_record">#54be6f</color>
+    <color name="bg1">#7e7e7e</color>
+    <color name="font_notification_message_content">#959595</color>
+    <color name="bg_line2">#e0e0e0</color>
+    <color name="font_hint">#dddddd</color>
+    <color name="font_hint1">#cccccc</color>
+    <color name="set_default_address_checked">#e58181</color>
+    <color name="bg_search">#eeeeee</color>
+    <color name="yellow">#ffb400</color>
+    <color name="red">#db3535</color>
+
+</resources>

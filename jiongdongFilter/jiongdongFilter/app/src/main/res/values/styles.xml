@@ -1,0 +1,52 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="radion_button">
+
+        <item name="android:textSize">13sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@drawable/main_radiobutton_textcolor_selector</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <style name="redio_button_select">
+
+        <item name="android:textSize">13sp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textColor">@drawable/main_radiobutton_textcolor_selector</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <style name="shop_commodity_font_style">
+        <item name="android:textSize">30px</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="commodity_font_num_below_style">
+        <item name="android:textSize">24px</item>
+        <item name="android:textColor">@color/font_share</item>
+    </style>
+    <style name="commodity_font_shop_price_style">
+        <item name="android:textSize">24px</item>
+        <item name="android:textColor">@color/font_price</item>
+    </style>
+    <style name="select_edittext_price">
+        <item name="android:textSize">24px</item>
+        <item name="android:textColor">@color/font_price</item>
+        <item name="android:background">@drawable/button_shape_search_tvbg</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">27dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+</resources>
