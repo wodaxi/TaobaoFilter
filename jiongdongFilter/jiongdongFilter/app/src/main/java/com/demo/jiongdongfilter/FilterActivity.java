@@ -71,6 +71,10 @@ public class FilterActivity extends FragmentActivity implements View.OnClickList
         getSupportFragmentManager().beginTransaction().replace(R.id.drawer_content, new FitrerFragment()).commit();
         StaggredView(2);
 
+
+
+
+
     }
     /**
      * 设置recycle的条目的间距
